@@ -1,6 +1,6 @@
 # Cyber Security
 
 ## My Information
-- Montakong
-- 48XXXXXXXXXXX
+- Monthakon [ใส่นามสกุลของคุณ]
+- [ใส่รหัสนักศึกษาของคุณ]
 - I known about cyber security
