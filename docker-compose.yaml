@@ -21,7 +21,7 @@ services:
       - PGADMIN_DEFAULT_PASSWORD=${PGADMIN_DEFAULT_PASSWORD}
 
   app:
-    image: monthakon/strapi
+    image: montakong/strapi
     container_name: 69-s2-app
     ports:
       - ${APP_PORT}:1337

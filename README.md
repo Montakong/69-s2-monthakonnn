@@ -1,6 +1,6 @@
 # Cyber Security
 
 ## My Information
-- Monthakon [ใส่นามสกุลของคุณ]
-- [ใส่รหัสนักศึกษาของคุณ]
+- Monthakon 
+- 056860405085-2
 - I known about cyber security
